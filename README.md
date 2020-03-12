@@ -1,2 +1,2 @@
 # laravel-broadcast-echo-pusher
-Laravel broadcast with Echo and Pusher
+Learn laraval events broadcast, with laravel echo and pusher sandbox plan 
